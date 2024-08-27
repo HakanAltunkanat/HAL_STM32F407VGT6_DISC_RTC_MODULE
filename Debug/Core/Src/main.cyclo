@@ -1,0 +1,9 @@
+../Core/Src/main.c:83:6:get_rtc_time	1
+../Core/Src/main.c:99:6:get_rtc_date	1
+../Core/Src/main.c:115:6:oled_display	1
+../Core/Src/main.c:140:5:main	1
+../Core/Src/main.c:191:6:SystemClock_Config	3
+../Core/Src/main.c:237:13:MX_I2C1_Init	2
+../Core/Src/main.c:271:13:MX_RTC_Init	4
+../Core/Src/main.c:334:13:MX_GPIO_Init	1
+../Core/Src/main.c:355:6:Error_Handler	1
